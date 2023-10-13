@@ -13,7 +13,8 @@ form of graphs and charts so that the user can
 easily understand where money has been spend
 ## Methodology
 <img width="413" alt="image" src="https://github.com/AryanKulathinal/Autonomous-Expense-Tracker-Using-Flutter/assets/116480303/48dbc6f2-4de5-4527-bdbd-4b4d24489c13">
-## Implmentation
+
+## Implementation
 1. Collection of all SMSs received using Telephony package
 2. Separation of Expense based messages from the collected messages using regular expression.
 3. Parsing of needed information like date and amount spent from SMSs using flutter functionalities.
